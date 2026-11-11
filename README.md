@@ -9,7 +9,7 @@
 
 **Автономная десктопная программа для автоматического сбора горячих B2B-клиентов, организаций и прямых контактов со всей России (65+ городов РФ) за 1 клик — без браузерных расширений, без прокси и без сложных настроек!**
 
-[📥 **СКАЧАТЬ ПРОГРАММУ (ЯНДЕКС.ДИСК)**](https://disk.yandex.ru/d/UQDr8f4YbgBC0A) • [🤖 **КУПИТЬ КЛЮЧ В TELEGRAM-БОТЕ 24/7**](https://t.me/MapLeadsPRO_bot) • [🛒 **PLATI.MARKET**](https://plati.market/itm/6387927) • [💬 **СВЯЗЬ С АВТОРОМ**](https://t.me/decebell032)
+[📦 **СКАЧАТЬ С GITHUB (v1.0.0)**](https://github.com/AndreyBychenkow/MapLeadsPRO/releases/download/v1.0.0/MapLeads_For_Clients.zip) • [☁️ **СКАЧАТЬ С ЯНДЕКС.ДИСКА**](https://disk.yandex.ru/d/UQDr8f4YbgBC0A) • [🤖 **КУПИТЬ КЛЮЧ В TELEGRAM-БОТЕ 24/7**](https://t.me/MapLeadsPRO_bot) • [🛒 **PLATI.MARKET**](https://plati.market/itm/6387927) • [💬 **СВЯЗЬ С АВТОРОМ**](https://t.me/decebell032)
 
 ---
 
@@ -76,7 +76,8 @@
 ## 🚀 Как скачать и запустить за 1 минуту
 
 1. **Скачайте архив программы `MapLeads_For_Clients.zip`:**
-   * ☁️ **С Яндекс.Диска:** **[https://disk.yandex.ru/d/UQDr8f4YbgBC0A](https://disk.yandex.ru/d/UQDr8f4YbgBC0A)**
+   * 📦 **Прямое скачивание из GitHub Releases:** **[Скачать MapLeads_For_Clients.zip (11.6 МБ)](https://github.com/AndreyBychenkow/MapLeadsPRO/releases/download/v1.0.0/MapLeads_For_Clients.zip)**
+   * ☁️ **Зеркало на Яндекс.Диске:** **[https://disk.yandex.ru/d/UQDr8f4YbgBC0A](https://disk.yandex.ru/d/UQDr8f4YbgBC0A)**
    * 🤖 **Или напрямую из нашего Telegram-бота:** **[@MapLeadsPRO_bot](https://t.me/MapLeadsPRO_bot)** (кнопка *«📥 Скачать программу MapLeads»*).
 2. **Распакуйте архив в любую удобную папку и запустите:**
    * 🪟 **На Windows (10 / 11):** дважды кликните по **`MapLeads.exe`** (никаких установок Python не требуется).
